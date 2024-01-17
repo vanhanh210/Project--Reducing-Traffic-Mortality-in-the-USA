@@ -1,3 +1,3 @@
 # Project: Reducing Traffic Mortality in the USA
  
-For the Reducing Traffic Mortality in the USA project, you will find a good strategy for reducing traffic-related deaths in the USA. You will be importing, cleaning, manipulating, and visualizing the data. Furthermore, you will perform feature engineering and apply various machine learning models (multivariate linear regression, KMeans clustering) to come up with stately and communicate the results. 
+For the "Reducing Traffic Mortality in the USA" project, I have developed an effective strategy to decrease traffic-related deaths in the USA. This involves importing, cleaning, manipulating, and visualizing data. Additionally, I am performing feature engineering and applying various machine learning models, including multivariate linear regression and KMeans clustering, to derive state-level insights. The results of this analysis will be communicated clearly and effectively.
